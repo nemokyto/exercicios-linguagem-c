@@ -5,7 +5,7 @@
 
 int main() {
 	
-float p;
+const float p = 3.141592;
 float r;
 float a;
 float d;
@@ -16,14 +16,13 @@ printf("informe o raio do circulo:\n");
 
 // calculo
 
-p = 3.141592;
 a = p*(r*r);
 d = r+r;
 
 printf("considerando pi como: 3.141592...\n");
-printf("a area correspondente do circulo: %2.f\n", a);
-printf("diametro do circulo: %2.f\n", d);
-printf ("independentemente da unidade de medida.\n");
+printf("\na area correspondente do circulo: %.2f\n", a);
+printf("diametro do circulo: %.2f\n", d);
+printf ("\nindependentemente da unidade de medida.\n");
 
 system("pause");
 return 0;

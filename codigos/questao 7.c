@@ -22,7 +22,7 @@ int main() {
 	//calculo
 	
 	z = x/y;
-	printf ("\nem USD: %2.f\n", z);
+	printf ("\nem USD: %.2f\n", z);
 	
 	system ("pause");
 	return 0;

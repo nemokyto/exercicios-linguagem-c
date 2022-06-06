@@ -19,7 +19,7 @@ int main () {
 	//conversão
 	
 	F = C*(9.0/5.0)+32.0;
-	printf ("\na temperatura de %2.f celsius em fahrenheint: %2.f \n", C , F);
+	printf ("\na temperatura de %2.f celsius em fahrenheint: %.2f \n", C , F);
 	
 	system ("pause");
 	return 0;

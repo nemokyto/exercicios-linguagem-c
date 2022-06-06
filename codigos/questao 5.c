@@ -20,7 +20,7 @@ int main () {
 	
 	M = K/3.6;
 	if (K > 0) {
-		printf ("\n%1.f km/h equivale a %1.f m/s\n", K , M);
+		printf ("\n%1.f km/h equivale a %.1f m/s\n", K , M);
 	}
 	else {
 		printf ("\nvelocidade negativa.\n");

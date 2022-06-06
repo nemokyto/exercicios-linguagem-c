@@ -25,18 +25,16 @@ int main () {
 		scanf("%f", &n4);
 	
 	//resultado
-	
-	
-	if (y >= 6) {
-		y = (n1+n2+n3+n4)/4.0;
-		printf ("Media: %1.f\n", y);
+
+	y = (n1+n2+n3+n4)/4.0;
+		if (y >= 6) {
+		printf ("Media: %.1f\n", y);
 		printf("Aprovado.\n");
-	}
-	else {
-		y = (n1+n2+n3+n4)/4.0;
-		printf ("Media: %1.f\n", y);
+		}
+		else {
+		printf ("Media: %.1f\n", y);
 		printf("Reprovado.\n");
-	}
+		}
 	
 	system("pause");
 	return 0;
