@@ -9,6 +9,7 @@ Lista de exercícios de Programação Estruturada em linguagem C de 27 questões
 ***
 
 ## Dia 27/05
+<<<<<<< HEAD
 * 1- Faça um programa que leia um número inteiro e o imprima.
 * 2- Peça ao usuário para digitar três valores inteiros e imprima a soma deles.
 * 3- Desenvolva um algoritmo em C que leia um número inteiro e imprima o seu antecessor e seu sucessor.
@@ -35,3 +36,20 @@ Calcule e imprima a quantia ganha por cada um dos ganhadores.
 * 10- Faça um programa que leia um número e, caso ele seja positivo, calcule e mostre:
 1. O número digitado ao quadrado
 2. A raiz quadrada do número digitado
+=======
+1. 1. Faça um programa que leia um número inteiro e o imprima.
+2. 2. Peça ao usuário para digitar três valores inteiros e imprima a soma deles.
+3. 3. Desenvolva um algoritmo em C que leia um número inteiro e imprima o seu antecessor e seu sucessor.
+
+## Dia 28/05
+1. Correção da primeira questão
+2. 4. Leia uma temperatura em graus Celsius e apresente-a convertida em graus Fahrenheit.
+3. 5. Leia uma velocidade em km/h(quilômetros por hora ) e apresente-a convertida em m/s (metros por segundo).
+
+## Dia 31/05
+1. 7. Leia um valor em real e a cotação do dólar. Em seguida, imprima o valor correspondente em dólares.
+
+## Dia 04/06
+1. 8.Leia o valor do raio de um círculo e calcule e imprima a área do círculo correspondente.
+
+>>>>>>> 2c4e38d3055ed20dbba91e2704f1c24c7b4e4405
