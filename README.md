@@ -37,7 +37,4 @@ Calcule e imprima a quantia ganha por cada um dos ganhadores.
 * 10- Faça um programa que leia um número e, caso ele seja positivo, calcule e mostre:
 1. O número digitado ao quadrado
 2. A raiz quadrada do número digitado
-=======
-1. 1. Faça um programa que leia um número inteiro e o imprima.
-2. 2. Peça ao usuário para digitar três valores inteiros e imprima a soma deles.
-3. 3. Desenvolva um algoritmo em C que leia um número inteiro e imprima o seu antecessor e seu sucessor.
+
