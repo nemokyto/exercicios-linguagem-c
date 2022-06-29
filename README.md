@@ -43,5 +43,9 @@ Calcule e imprima a quantia ganha por cada um dos ganhadores.
 2. A raiz quadrada do número digitado
 
 ## Dia 14/06
-* 11. Faça um programa que receba um número inteiro e verifique se este
+* 11- Faça um programa que receba um número inteiro e verifique se este
 número é par ou ímpar, positivo ou negativo.
+
+## Dia 29/06
+* $git clone do repositório no novo computador;
+* Adicionado: lista-c.pdf
