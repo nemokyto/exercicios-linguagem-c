@@ -49,3 +49,12 @@ número é par ou ímpar, positivo ou negativo.
 ## Dia 29/06
 * $git clone do repositório no novo computador;
 * Adicionado: lista-c.pdf
+
+## Dia 01/06
+* 12- Faça um programa que leia 2 notas de um aluno, verifique se as notas são válidas e exiba na tela a média destas notas. Uma nota válida deve ser, obrigatoriamente, um valor entre 0.0 e 10.0, onde caso a nota não possua um valor válido, este fato deve ser informado ao usuário e o programa termina.
+
+## Dia 03/06
+* Correção da questão 12.
+* 13- Faça um programa que receba a altura e o sexo de uma pessoa e calcule e mostre seu peso ideal, utilizando as seguintes fórmulas (onde h corresponde à altura):
+- Homens: (72.7*h) − 58
+- Mulheres: (62.1*h) − 44.7
