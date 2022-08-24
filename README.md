@@ -15,7 +15,7 @@ Lista de exercícios de Programação Estruturada em linguagem C de 27 questões
 * 2- Peça ao usuário para digitar três valores inteiros e imprima a soma deles.
 * 3- Desenvolva um algoritmo em C que leia um número inteiro e imprima o seu antecessor e seu sucessor.
 
-## Dia 28/5
+## Dia 28/05
 
 * Correção da primeira questão
 * 4- Leia uma temperatura em graus Celsius e apresente-a convertida em graus Fahrenheit.
