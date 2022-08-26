@@ -58,3 +58,13 @@ número é par ou ímpar, positivo ou negativo.
 * 13- Faça um programa que receba a altura e o sexo de uma pessoa e calcule e mostre seu peso ideal, utilizando as seguintes fórmulas (onde h corresponde à altura):
 - Homens: (72.7*h) − 58
 - Mulheres: (62.1*h) − 44.7
+
+## Dia 26/08
+* 14- A nota final de um estudante é calculada a partir de três notas atribuídas
+entre o intervalo de 0 até 10, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas anteriormente obedece aos pesos: Trabalho de Laboratório: 2; Avaliação Semestral: 3; Exame Final: 5. De acordo com o
+resultado, mostre na tela se o aluno está reprovado (média entre 0 e 2,9),  de recuperação (entre 3 e 4,9) ou se foi aprovado. Faça todas as verificações necessárias.
+* 16- Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se aposentar. As condições para aposentadoria são:
+- Ter pelo menos 65 anos,
+- Ou ter trabalhado pelo menos 30 anos,
+- Ou ter pelo menos 60 anos e trabalhado pelo menos 25 anos.
+* 17- Leia a distância em Km e a quantidade de litros de gasolina consumidos por um carro em um percurso, calcule o consumo em Km/l e escreva uma mensagem de acordo com a tabela (PDF).
