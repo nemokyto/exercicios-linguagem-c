@@ -66,3 +66,5 @@ resultado, mostre na tela se o aluno está reprovado (média entre 0 e 2,9),  de
 - Ou ter trabalhado pelo menos 30 anos,
 - Ou ter pelo menos 60 anos e trabalhado pelo menos 25 anos.
 
+## Dia 12/09
+* Atualizações e correções menores no repositório.
