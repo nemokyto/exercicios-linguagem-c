@@ -68,3 +68,6 @@ resultado, mostre na tela se o aluno está reprovado (média entre 0 e 2,9),  de
 
 ## Dia 12/09
 * Atualizações e correções menores no repositório.
+
+## Dia 01/01/2023
+* Questões 18-27 adicionadas.
